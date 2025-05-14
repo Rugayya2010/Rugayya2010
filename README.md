@@ -1,4 +1,4 @@
-# My First Game Project 🎮
+# About me 🎮
 
 Hi! I'm Rugayya and I'm learning how to code games with Unity and C#.  
 This is my first game project — follow my journey!
